@@ -1,0 +1,19 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+matplotlib>=3.8
+
+mlflow>=3.1
+
+xgboost>=2.0
+lightgbm>=4.3
+
+statsmodels>=0.14
+prophet>=1.1.5
+
+torch>=2.2
+neuralforecast>=1.7
+
+# timesfm[torch]>=1.2
+
+kaggle>=1.6
